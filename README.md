@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">👾 Eai, tranquilo? Meu nome é Nicolas!👾</h1>
 
-<!--
-**NicolasCafarete/NicolasCafarete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Iniciando minha carreira como programador☕  
+</p>
 
-Here are some ideas to get you started:
+<div align="center">
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FzOG9nbmNidHdsZXo1dzR5bG4xYXVyZDhjMnlhZWhyOGhqYXk4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+## 🎓 Estudante de Sistemas para Internet - **IFRS-POA (1 semestre)**
+
+## 💻 Meu Dashboard
+<table align="center">
+<a href="https://github.com/NicolasCafarete">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=NicolasCafarete&show_icons=true&theme=dark" alt="GitHub Stats"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCafarete&layout=compact&theme=dark" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+
+##
+
+### 🚀 Projetos em destaque
+
+[...] Em construção! 🔨
+
+##
+
+### 📫 Contato
+
+- E-mail: nicolacafarete1607@gmail.com  
+- LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/nicolasgoncalvescafarete)   
+
+##
+
+"**Erros são apenas degraus para o sucesso.**" ⚜️
+
+##
+  
+🤍"**@L**"
