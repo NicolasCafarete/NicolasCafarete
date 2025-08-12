@@ -49,4 +49,4 @@
 
 ##
 
-*GitHub em aprimoramento, qualquer erro ou dúvida por favor, me da um oi! 😊
+*GitHub em aprimoramento, qualquer erro ou dúvida, por favor, me dê um oi! 😊
