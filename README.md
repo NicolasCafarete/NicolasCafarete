@@ -37,7 +37,7 @@
 ### 📫 Contato
 
 - E-mail: nicolacafarete1607@gmail.com  
-- LinkedIn: [linkedin.com/in/seunome](https://linkedin.com/in/nicolasgoncalvescafarete)   
+- LinkedIn: [https://linkedin.com/in/nicolasgoncalvescafarete]  
 
 ##
 
