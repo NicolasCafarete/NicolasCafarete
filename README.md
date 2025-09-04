@@ -14,17 +14,19 @@
 
 ## 💻 Meu Dashboard
 <table align="center">
-<a href="https://github.com/NicolasCafarete">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=NicolasCafarete&show_icons=true&theme=dark" alt="GitHub Stats"/>
+      <a href="https://github.com/NicolasCafarete">
+        <img src="https://github-readme-stats.vercel.app/api?username=NicolasCafarete&show_icons=true&theme=dark" alt="GitHub Stats"/>
+      </a>
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCafarete&layout=compact&langs_count=7&theme=dark"/>
+      <a href="https://github.com/NicolasCafarete">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasCafarete&layout=compact&langs_count=7&theme=dark"/>
+      </a>
     </td>
   </tr>
 </table>
-
 
 ##
 
