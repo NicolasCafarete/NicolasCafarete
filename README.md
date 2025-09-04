@@ -8,7 +8,7 @@
   <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FzOG9nbmNidHdsZXo1dzR5bG4xYXVyZDhjMnlhZWhyOGhqYXk4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
 </div>
 
-##
+---
 
 ## 🎓 Estudante de Sistemas para Internet - **IFRS-POA (1 semestre)**
 
@@ -28,27 +28,27 @@
   </tr>
 </table>
 
-##
+---
 
 ### 🚀 Projetos em destaque
 
 [...] Em construção! 🔨
 
-##
+---
+
+**Erros são apenas degraus para o sucesso.** ⚜️
+
+---
+
+🤍"**@L**"
+
+---
 
 ### 📫 Contato
 
 - E-mail: nicolacafarete1607@gmail.com  
-- LinkedIn: [https://linkedin.com/in/nicolasgoncalvescafarete]  
+- LinkedIn: [https://linkedin.com/in/nicolasgoncalvescafarete]
 
-##
-
-"**Erros são apenas degraus para o sucesso.**" ⚜️
-
-##
-  
-🤍"**@L**"
-
-##
+---
 
 *GitHub em aprimoramento, qualquer erro ou dúvida, por favor, me dê um oi! 😊
